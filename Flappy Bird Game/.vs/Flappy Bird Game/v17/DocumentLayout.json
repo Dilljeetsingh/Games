@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\Documents\\OPP2\\Flappy Bird Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0084762B-712B-4158-8470-E2591DE79C3B}|Flappy Bird Game.csproj|C:\\Users\\pc\\OneDrive\\Documents\\OPP2\\Flappy Bird Game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0084762B-712B-4158-8470-E2591DE79C3B}|Flappy Bird Game.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0084762B-712B-4158-8470-E2591DE79C3B}|Flappy Bird Game.csproj|C:\\Users\\pc\\OneDrive\\Documents\\OPP2\\Flappy Bird Game\\scoreboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0084762B-712B-4158-8470-E2591DE79C3B}|Flappy Bird Game.csproj|solutionrelative:scoreboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0084762B-712B-4158-8470-E2591DE79C3B}|Flappy Bird Game.csproj|c:\\users\\pc\\onedrive\\documents\\opp2\\flappy bird game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0084762B-712B-4158-8470-E2591DE79C3B}|Flappy Bird Game.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0084762B-712B-4158-8470-E2591DE79C3B}|Flappy Bird Game.csproj|C:\\Users\\pc\\OneDrive\\Documents\\OPP2\\Flappy Bird Game\\scoreboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0084762B-712B-4158-8470-E2591DE79C3B}|Flappy Bird Game.csproj|solutionrelative:scoreboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Documents\\OPP2\\Flappy Bird Game\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Documents\\OPP2\\Flappy Bird Game\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:47:18.825Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScoreBoard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Documents\\OPP2\\Flappy Bird Game\\ScoreBoard.cs",
+              "RelativeDocumentMoniker": "ScoreBoard.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Documents\\OPP2\\Flappy Bird Game\\ScoreBoard.cs [Design]",
+              "RelativeToolTip": "ScoreBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:47:33.028Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScoreBoard.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Documents\\OPP2\\Flappy Bird Game\\ScoreBoard.cs",
+              "RelativeDocumentMoniker": "ScoreBoard.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Documents\\OPP2\\Flappy Bird Game\\ScoreBoard.cs",
+              "RelativeToolTip": "ScoreBoard.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T04:07:33.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Documents\\OPP2\\Flappy Bird Game\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Documents\\OPP2\\Flappy Bird Game\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:51:45.761Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

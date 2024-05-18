@@ -1,0 +1,34 @@
+C:\Users\pc\OneDrive\Documents\OPP2\Flappy Bird Game\bin\Debug\Flappy Bird Game.exe.config
+C:\Users\pc\OneDrive\Documents\OPP2\Flappy Bird Game\bin\Debug\Flappy Bird Game.exe
+C:\Users\pc\OneDrive\Documents\OPP2\Flappy Bird Game\bin\Debug\Flappy Bird Game.pdb
+C:\Users\pc\OneDrive\Documents\OPP2\Flappy Bird Game\obj\Debug\Flappy Bird Game.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documents\OPP2\Flappy Bird Game\obj\Debug\Flappy_Bird_Game.Form1.resources
+C:\Users\pc\OneDrive\Documents\OPP2\Flappy Bird Game\obj\Debug\Flappy_Bird_Game.Properties.Resources.resources
+C:\Users\pc\OneDrive\Documents\OPP2\Flappy Bird Game\obj\Debug\Flappy Bird Game.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Documents\OPP2\Flappy Bird Game\obj\Debug\Flappy Bird Game.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documents\OPP2\Flappy Bird Game\obj\Debug\Flappy Bird Game.exe
+C:\Users\pc\OneDrive\Documents\OPP2\Flappy Bird Game\obj\Debug\Flappy Bird Game.pdb
+C:\Users\pc\OneDrive\Documents\OPP2\Flappy Bird Game\bin\Debug\NAudio.dll
+C:\Users\pc\OneDrive\Documents\OPP2\Flappy Bird Game\bin\Debug\NAudio.xml
+C:\Users\pc\OneDrive\Documents\OPP2\Flappy Bird Game\obj\Debug\Flappy B.20607ACE.Up2Date
+C:\Users\pc\OneDrive\Documents\OPP2\Flappy Bird Game\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pc\OneDrive\Documents\OPP2\Flappy Bird Game\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pc\OneDrive\Documents\OPP2\Flappy Bird Game\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pc\OneDrive\Documents\OPP2\Flappy Bird Game\bin\Debug\System.Buffers.dll
+C:\Users\pc\OneDrive\Documents\OPP2\Flappy Bird Game\bin\Debug\System.Memory.dll
+C:\Users\pc\OneDrive\Documents\OPP2\Flappy Bird Game\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pc\OneDrive\Documents\OPP2\Flappy Bird Game\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pc\OneDrive\Documents\OPP2\Flappy Bird Game\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\pc\OneDrive\Documents\OPP2\Flappy Bird Game\bin\Debug\System.Text.Json.dll
+C:\Users\pc\OneDrive\Documents\OPP2\Flappy Bird Game\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pc\OneDrive\Documents\OPP2\Flappy Bird Game\bin\Debug\System.ValueTuple.dll
+C:\Users\pc\OneDrive\Documents\OPP2\Flappy Bird Game\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pc\OneDrive\Documents\OPP2\Flappy Bird Game\bin\Debug\System.Buffers.xml
+C:\Users\pc\OneDrive\Documents\OPP2\Flappy Bird Game\bin\Debug\System.Memory.xml
+C:\Users\pc\OneDrive\Documents\OPP2\Flappy Bird Game\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pc\OneDrive\Documents\OPP2\Flappy Bird Game\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pc\OneDrive\Documents\OPP2\Flappy Bird Game\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\pc\OneDrive\Documents\OPP2\Flappy Bird Game\bin\Debug\System.Text.Json.xml
+C:\Users\pc\OneDrive\Documents\OPP2\Flappy Bird Game\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\pc\OneDrive\Documents\OPP2\Flappy Bird Game\bin\Debug\System.ValueTuple.xml
+C:\Users\pc\OneDrive\Documents\OPP2\Flappy Bird Game\obj\Debug\Flappy_Bird_Game.ScoreBoard.resources
